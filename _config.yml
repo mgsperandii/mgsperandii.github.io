@@ -1,3 +1,19 @@
+# --- Required options --- #
+
 theme: jekyll-theme-slate
+
+# Name of website
 title: Marta Gaia Sperandii
 description: Hi! In this page you'll learn about my research interest, current projects I'm working on, and past activities I've been involved into.
+
+# Your name to show in the footer
+author: Marta Gaia Sperandii
+
+# --- List of links in the navigation bar --- #
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
