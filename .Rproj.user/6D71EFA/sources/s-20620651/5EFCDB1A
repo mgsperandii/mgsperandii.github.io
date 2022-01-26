@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/mgsperandii.github.io/mgsperandii.github.io/_config.yml",
     "project_path": "_config.yml",
     "type": "yaml",
-    "hash": "1117218925",
+    "hash": "3400590289",
     "contents": "",
     "dirty": false,
     "created": 1643218824296.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "11,31",
+        "cursorPosition": "10,5",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1643219376,
+    "lastKnownWriteTime": 1643219552,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1643219376649,
+    "last_content_update": 1643219552942,
     "read_only": false,
     "read_only_alternatives": []
 }
