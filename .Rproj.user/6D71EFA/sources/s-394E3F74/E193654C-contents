@@ -2,7 +2,7 @@
 layout: page
 title: Contact Me
 description: Have questions? I have answers.
-background: '/Users/Marta/Documents/GitHub/mgsperandii.github.io/mgsperandii.github.io/img/me-donana.jpeg'
+background: '/img/me-donana.jpeg'
 form: true
 ---
 
