@@ -1,26 +1,26 @@
 {
-    "id": "EA5A80C4",
+    "id": "54AEE30E",
     "path": "~/Documents/GitHub/mgsperandii.github.io/mgsperandii.github.io/_posts/2022-01-26-hello.Rmd",
     "project_path": "_posts/2022-01-26-hello.Rmd",
     "type": "r_markdown",
-    "hash": "1430883638",
+    "hash": "1034165449",
     "contents": "",
-    "dirty": true,
-    "created": 1643372068732.0,
+    "dirty": false,
+    "created": 1643471727568.0,
     "source_on_save": false,
-    "relative_order": 6,
+    "relative_order": 9,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "9,65",
-        "scrollLine": "9"
+        "cursorPosition": "8,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1643376830,
+    "lastKnownWriteTime": 1643471737,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1643469970690,
+    "last_content_update": 1643471737889,
     "read_only": false,
     "read_only_alternatives": []
 }
