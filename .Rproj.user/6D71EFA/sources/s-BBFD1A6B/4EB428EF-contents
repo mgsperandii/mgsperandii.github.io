@@ -1,0 +1,154 @@
+---
+title: "CV Marta Gaia Sperandii"
+author: "Marta Gaia Sperandii"
+date: "January 2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r, out.width='30%', fig.align='left', echo=FALSE}
+knitr::include_graphics('/Users/Marta/Documenti/Personale/Fotine/Marta_Pantaniello.jpg')
+```
+
+# _Find me at_
+
+- Institutional e-mail: martagaia.sperandii[at]uniroma3.it
+- Personal e-mail: mg.sperandii[at]gmail.com
+- [ResearchGate: **Marta Gaia Sperandii**](https://www.researchgate.net/profile/Marta_Gaia_Sperandii)
+- [Google Scholar: **Marta Gaia Sperandii**](https://scholar.google.com/citations?user=iQm6YpkAAAAJ&hl=it)
+- [Twitter: **mgsperandii**](https://twitter.com/mgsperandii)
+- ORCID: [https://orcid.org/0000-0002-2507-5928](https://orcid.org/0000-0002-2507-5928)
+- Web of Science Research ID: [https://publons.com/researcher/K-5617-2019/](https://publons.com/researcher/K-5617-2019/)
+
+# _Current position_
+- 10/2020 - present: Contract Professor. Università degli studi Roma Tre, Rome, Italy.
+Main tasks: Preparing material, giving seminars and participating to teaching activities for the 2020/2021 course in "Ecology"
+
+- 09/2020 - present: Postdoctoral Researcher. Consejo Superior de Investigaciones Cientificas. Centro de Investigaciones sobre Desertificación (CSIC‐UV‐GV). Moncada (Valencia), Spain.
+Main tasks: Managing and performing analysis on a massive database of vegetation time-series (including data collected on more than 8000 permanent plots sampled for a minimum of 6 consecutive years). Running a large biodiversity experiment to investigate the temporal stability of vegetation communities.
+
+# _Keywords_
+Temporal dynamics, Ecosystem stability, Vegetation Ecology, Biodiversity, Coastal dunes, Dry grasslands.
+
+# _Education_
+
+- 11/2016 - 10/2019: PhD in _Molecular, Cellular and Environmental Biology - curriculum Environmental Biology_ (Università degli studi Roma Tre, Rome, Italy). Thesis: "Investigating patterns and drivers of temporal changes in taxonomic and functional diversity of coastal habitats”. 
+
+- 09/2013 - 09/2015: M.Sc in _Conservation and restoration of forest environments and soil defense_ (Università degli studi della Tuscia, Viterbo, Italy). Thesis: "Investigations on the ecology, distribution and phytosociology of Lobel's Maple". Mark obtained: 110/100 _cum laude_. 
+
+- 09/2012 - 05/2013: Integrationskurs - Intensive German course (Volkshochschule Berlin - Neukölln, Berlin, Germany). 
+
+- 04/2011 - 11/2011: Post-graduate Diploma in _Energy and Environment Management_ (Il Sole24ORE Business School, Rome, Italy).
+
+- 09/2005 - 07/2010: Bachelor's Degree in _Landscape and Environmental Planning and Management_ (Università degli Studi di Roma "Sapienza"). Thesis: "Eco-industrial districts as a challenging tool to combine economic growth and environmental sustainability: the case of the Sacco River Valley". Mark obtained: 110/110.
+
+- 09/2000 - 07/2005: High school Diploma with an emphasis on Humanities (Liceo Classico E. Montale, Rome, Italy). Mark obtained: 98/100.
+
+# _Work Experience_
+
+- 12/2019 - 03/2020: Contract Researcher. Università degli studi Roma Tre, Rome, Italy.
+Main tasks: Analysing temporal patterns of invasion by non-native species in coastal dune ecosystems. Funded by the project: "Developing state-of-the-art remote sensing tools for monitoring the impact of invasive plant species in coastal ecosystems in Israel and Italy" ("DERESEMII").
+
+- 11/2017 - 03/2018: Environmental educator. [Environmental association **Marevivo**](https://marevivo.it), Rome, Italy. 
+
+- 09/2016 - 09/2016 and 07/2016 - 07/2016: Collect Earth expert. [Food and Agriculture Organization of the United Nations-  **FAO**](http://www.fao.org/forestry/en/), Rome, Italy. 
+Main tasks: Collecting, analysing and evaluating forest data for the "Global LULUCF assessment", an international project aimed at identifying and quantifying land use/land cover trends through visual interpretation of high resolution images.
+ 
+- 05/2016 - 06/2016: Environmental consultant. [**HydranGea s.r.l.**](http://www.a9studio.it/studio/emiliano-agrillo/), Rome, Italy. 
+Main tasks: Floristic and vegetation sampling, creation of vegetation maps and participation in the development of Environmental Monitoring Plans for three dismissed nuclear sites in Italy (Casaccia - RM, Trino, VC - Caorso, PC).
+
+- 07/2015 - 02/2016: Intern. Laboratorio di Geobotanica, Università della Tuscia, Viterbo, Italy. Main tasks: Participation in the research project "Biodiversity patterns at multiple spatial scales in semi-natural grasslands of Abruzzo Lazio and Molise National Park (PNALM)". Field sampling and plant identification.
+
+- 11/2011 - 06/2012: Intern. Heras Energia & Ambiente srl, Rome, Italy. 
+Main tasks: Business planning, funding opportunities, authorization procedures for biogas plants.
+
+# _Publications_
+
+1. **Sperandii** M.G, Barták V., Carboni M., Acosta A.T.R. 2020. Getting the measure of the biodiversity crisis in Mediterranean coastal habitats. _Journal of Ecology_. DOI: [**10.1111/1365-2745.13547**](https://doi.org/10.1111/1365-2745.13547)
+
+2.	**Sperandii** M.G., Barták V., & Acosta A.T.R. 2020. Effectiveness of the Natura 2000 network in conserving Mediterranean coastal dune habitats. _Biological conservation_ 248: 108689. DOI: [**10.1016/j.biocon.2020.108689**](https://doi.org/10.1016/j.biocon.2020.108689)
+
+3. Lampinen J., Tuomi M., Fischer L.K., Neuenkamp L., Alday J.G., Bucharova A., ... **Sperandii** M.G.,... & Klaus, V. H. (2020). Acceptance of near-natural greenspace management relates to ecological and socio-cultural assigned values among European urbanites. _Basic and Applied Ecology_ 50: 119:131. DOI: [**10.1016/j.baae.2020.10.006**](https://doi.org/10.1016/j.baae.2020.10.006)
+
+4. Filibeck G., **Sperandii** M.G., Bragazza L., Bricca A., Chelli S., Maccherini S., ... & Cancellieri L. (2020). Competitive dominance mediates the effects of topography on plant richness in a mountain grassland. _Basic and Applied Ecology_ 48: 112-123. DOI: [**10.1016/j.baae.2020.09.008**](https://doi.org/10.1016/j.baae.2020.09.008)
+
+5.	Fischer L.K., Neuenkamp L., Lampinen J., Tuomi M., Alday J.G., Bucharova A., ... **Sperandii** M.G., … & Klaus V. 2020. Public attitudes toward biodiversity‐friendly greenspace management in Europe. _Conservation letters_: e12718. DOI: [**10.1111/conl.12718**](https://doi.org/10.1111/conl.12718)
+
+6.	Kattge J., Bönisch G., Díaz S., Lavorel S., Prentice I.C., Leadley P., ... **Sperandii** M.G., … & Wirth C. 2020.  TRY plant trait database-enhanced coverage and open access. _Global Change Biology_ 26(1): 119-188. DOI:  [**10.1111/gcb.14904**](https://doi.org/10.1111/gcb.14904)
+
+7.	Bazzichetto M., **Sperandii** M.G., Malavasi M., Carranza M.L., & Acosta A.T.R. 2020. Disentangling the effect of coastal erosion and accretion on plant communities of Mediterranean dune ecosystems. _Estuarine, Coastal and Shelf Science_: 106758. DOI: [**10.1016/j.ecss.2020.106758**](https://doi.org/10.1016/j.ecss.2020.106758)
+
+8.	Filibeck G., Cancellieri L., Bartolucci F., Becker U., Conti F., Maestri S., Mürz M., Schommer E., **Sperandii** M.G. & Becker T. 2019. Festuca valesiaca Schleich. ex Gaudin newly discovered in the Central Apennines (Italy): a further example of steppe relict in the Abruzzo “dry valleys”. _Plant Biosystems-An International Journal Dealing with all Aspects of Plant Biology_. DOI: [**10.1080/11263504.2019.165178**](https://doi.org/10.1080/11263504.2019.165178)
+
+9.	Filibeck G., **Sperandii** M.G., Bazzichetto M., Mancini L.D., Rossini F., & Cancellieri L. 2019. Exploring the drivers of vascular plant richness at very fine spatial scale in sub-Mediterranean limestone grasslands (Central Apennines, Italy). _Biodiversity and Conservation_ 28: 2701-2725. DOI: [**10.1007/s10531-019-01788-7**](https://doi.org/10.1007/s10531-019-01788-7)
+
+10.	Marzialetti F., Giulio S., Malavasi M., **Sperandii** M.G., Acosta A.T.R., & Carranza M.L. 2019. Capturing Coastal Dune Natural Vegetation Types Using a Phenology-Based Mapping Approach: The Potential of Sentinel-2. _Remote Sensing_ 11(12): 1506. DOI: [**10.3390/rs11121506**](https://doi.org/10.3390/rs11121506)
+
+11.	**Sperandii** M.G., Bazzichetto M., Gatti F., & Acosta A.T.R. 2019. Back into the past: Resurveying random plots to track community changes in Italian coastal dunes. _Ecological Indicators_ 96: 572-578. DOI: [**10.1016/j.ecolind.2018.09.039**](https://doi.org/10.1016/j.ecolind.2018.09.039)
+
+12.	**Sperandii** M.G., Bazzichetto M., Acosta A.T.R., Barták V., & Malavasi M. 2019. Multiple drivers of plant diversity in coastal dunes: A Mediterranean experience. _Science of The Total Environment_ 652: 1435-1444. DOI: [**10.1016/j.scitotenv.2018.10.299**](https://doi.org/10.1016/j.scitotenv.2018.10.299)
+
+13.	Dengler J., Wagner V., Dembicz I., García-Mijangos I., Naqinezhad A., Boch S., ...**Sperandii** M.G.,...  & Janišová M. 2018. GrassPlot–a database of multi-scale plant diversity in Palaearctic grasslands. _Phytocoenologia_ 48(3): 331-347. DOI: [**10.1127/phyto/2018/0267**](http://doi.org/10.1127/phyto/2018/0267)
+
+14.	Filibeck G., Cancellieri L., **Sperandii** M.G., Belonovskaya E., Sobolev N., Tsasarevskaya N., ... & Conti F. 2018. Biodiversity patterns of dry grasslands in the Central Apennines (Italy) along a precipitation gradient: experiences from the 10th EDGG Field Workshop. _Bulletin of the Eurasian Dry Grassland Group_ 36: 25-41. DOI: [**https://doi.org/10.21256/zhaw-3521**](https://doi.org/10.21256/zhaw-3521)
+
+15.	**Sperandii** M.G., Prisco I. & Acosta, A.T.R. 2018. Hard times for Italian coastal dunes: insights from a diachronic analysis based on random plots. _Biodiversity and Conservation_ 27(3): 633-646. DOI: [**10.1007/s10531-017-1454-1**](https://doi.org/10.1007/s10531-017-1454-1)
+
+16.	**Sperandii** M.G., Prisco I., Stanisci A. & Acosta, A.T.R. 2017. RanVegDunes-A random plot database of Italian coastal dunes. _Phytocoenologia_ 47(2): 231-232. DOI: [**10.1127/phyto/2017/0198**](http://doi.org/10.1127/phyto/2017/0198)
+
+17.	Cancellieri L., **Sperandii** M.G. & Filibeck G., 2017. First record of the steppic relict Astragalus exscapus L. subsp. exscapus in the Apennines (Abruzzo, Italy), and biogeographic implications. _Plant Biosystems-An International Journal Dealing with all Aspects of Plant Biology_ 151(6): 944-948. DOI: [**10.1080/11263504.2017.1311963**](https://doi.org/10.1080/11263504.2017.1311963)
+
+18.	Cancellieri L., Mancini L.D., **Sperandii** M.G., Filibeck G., 2017. In and out: Effects of shoot-vs. rooted-presence sampling methods on plant diversity measures in mountain grasslands. _Ecological Indicators_ 72: 315-321. DOI: [**10.1016/j.ecolind.2016.08.029**](https://doi.org/10.1016/j.ecolind.2016.08.029)
+
+19.	Filibeck G., Cancellieri L., **Sperandii** M.G., Dengler J., Biurrun I. 2017. Invitation to the 10th EDGG Field Workshop "Biodiversity patterns across a precipitation gradient in the Central Apennine mountains". _Bulletin of the European Dry Grassland Group_ 33: 3-12. DOI: [**10.21570/EDGG.Bull.33.3-12 **](https://doi.org/10.21570/EDGG.Bull.33.3-12 )
+
+# _Conferences_
+
+- **Sperandii** M.G., Barták V., Acosta A.T.R (2019). Through the lens of time: experiences from a resurveying study of coastal dune ecosystems in Central Italy. In Gavilán R.G.  & Gutiérrez-Girón A. (Eds.). 28th Meeting of the European Vegetation Survey "Vegetation Diversity and Global Change". Book of Abstracts. p.10. Oral communication.
+- **Sperandii** M.G., Barták V., Acosta A.T.R (2019). Multi-temporal analysis of coastal dune ecosystems in Central Italy: experiences from a resurveying study. In Diekmann M. (Ed.). 62nd Annual Symposium of the International Association for Vegetation Science "Vegetation Science and Biodiversity Research". Book of Abstracts. p.228. Poster communication.
+- **Sperandii** M.G., Barták V, Acosta A.T.R. (2019). Through the lens of time: experiences from a resurveying study of coastal dune ecosystems in Central Italy. In Riveccio G. e Bagella S. (Eds.). 53° Congresso della Società Italiana di Scienze della Vegetazione "Gestione sostenibile degli habitat: biodiversità, plant traits, servizi ecosistemici". Abstract book. p.52. Università degli Studi di Sassari. ISBN 979-12-200-4980-1. Oral communication.
+- **Sperandii** M.G., Prisco I., Stanisci A., Acosta A.T.R. (2018). Using RanVegDunes, a random plot database of Italian coastal dunes. 2018 LifeWatch Italy Annual Conference. Abstract book. p.19. Cnr Edizioni. ISBN 9788880803188. Poster communication.
+- **Sperandii** M.G., Acosta A.T.R (2017). Tracking temporal changes in Italian coastal dunes: first results from a 12-years resurvey of a small area near Rome (Italy). In Loidi J. et al (Eds.). 26th Congress of the European Vegetation Survey “Diversity patterns across communities in the frame of global change: conservation challenges” (p. 103). Book of Abstracts. Universidad del País Vasco / Euskal Herriko Unibertsitatea, Argitalpen Zerbitzua, Bilbao. Poster communication.
+- **Sperandii** M.G., Prisco I., Acosta A.T.R. (2017). What has happened to coastal dune vegetation in the last decade? A diachronic analysis based on random plots. In Guarino R., Bazan G., Barbera G. (Eds.) 60th IAVS annual symposium “Vegetation patterns in natural and cultural landscapes”. Abstracts book (p. 316). Palermo University Press, Palermo. Poster communication.
+- **Sperandii** M.G., Prisco I., Stanisci A., Acosta A.T.R. (2017). Introducing RanVegDunes, a random plot-database of Italian coastal dunes. In Buldrini F., Chiarucci A., Donati D., Lelli C., Nascimbene J., Pezzi G., A. Velli A. (Eds). Atti del 51° congresso della Società Italiana di Scienza della Vegetazione “Servizi Ecosistemici e Scienza della Vegetazione” (p. 77). Dipartimento di Scienze Biologiche, Geologiche e Ambientali Alma Mater Studiorum – Università di Bologna, Bologna. Poster communication.
+- **Sperandii** M.G., Spada F., Massimi M., Agrillo E., 2016. Coenology of Acer cappadocicum subsp. lobelii in Italy. Book of Abstracts - Posters. 25th Meeting of European Vegetation Survey, Rome, 2013, April 6-9. pp. 96. Poster communication.
+
+# _Memberships_
+
+- Member of the International Association for Vegetation Science (IAVS).
+- Member of the Steering Committee of the IAVS working group “Young Scientists”.
+- Member of the Italian Society of Vegetation Science.
+
+# _Peer review_
+
+Reviewer for the following journals: _Applied Vegetation Science_ , _Journal of Vegetation Science_, _Biodiversity & Conservation_, _Diversity and Distributions_, _Journal of Environmental Management_, _Journal of Forestry Research_, _Journal of Vegetation Science_, _Science of the Total Environment_. (more info on [**my Publons profile**](https://publons.com/researcher/K-5617-2019/)).
+
+External reviewer of research proposals for the National Research, Development and Innovation Office of Hungary (NKFIH).
+
+# _Mentoring_
+
+- Gatti F., 2018. "La vegetazione costiera psammofila dell'Italia centrale: un'analisi multitemporale" (Master's thesis).
+- Cascone S., 2020. "Analisi dei cambiamenti temporali della macchia mediterranea lungo le coste del Lazio" (Master's thesis).
+
+# _Organization of conferences, symposia, workshops_
+
+- Online workshop "Emerging challenges in Vegetation Science" (October 13th-14th 2020). Organized with the IAVS Young Scientists Steering Committee.
+- Online workshop "Dalla Fitosociologia al monitoraggio degli habitat: specie caratteristiche, specie diagnostiche, specie tipiche" (October 9th 2020). Organized with a team of the Italian Society of Vegetation Science.
+- Support in the organization of the 10th European Dry Grasslands Group (EDGG) Field Workshop (3- 11 June 2017, Central Apennines)
+- Support in the organization of the 25th Workshop of European Vegetation Survey (6-9 April 2016, Rome)
+
+# _Workshops attended_
+
+- 13-14/06/2019. Workshop "Sampling and analyzing data in vegetation ecology", organized by the Ecological section of the Italian Botanical Society in Siena (Italy).
+- 3-7/06/2019. Working group meeting on Biological invasions organized by the Groupement de Recherche CNRS 3647 Invasions Biologiques in St. Malo (France).
+- 23-26/06/2018. Field Workshop "Biodiversity patterns in karst grasslands: structural aspects and functional responses at small spatial scales", organized by the Ecological section of the Italian Botanical Society in Pescasseroli (Italy).
+
+# _Other activities_
+
+- Invited talk at the Institut für Biologie, Bereich Pflanzenwissenschaften, Universität Graz, Austria. 19/03/2019. Multi-temporal analysis of coastal dune ecosystems in Central Italy: experiences from a resurveying study.
