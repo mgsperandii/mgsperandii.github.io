@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/mgsperandii.github.io/mgsperandii.github.io/about.html",
     "project_path": "about.html",
     "type": "html",
-    "hash": "1236912227",
+    "hash": "3700840858",
     "contents": "",
     "dirty": false,
     "created": 1643219978908.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "7,230",
-        "scrollLine": "0"
+        "cursorPosition": "7,545",
+        "scrollLine": "2"
     },
     "folds": "",
-    "lastKnownWriteTime": 1643456956,
+    "lastKnownWriteTime": 1643457107,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1643456956208,
+    "last_content_update": 1643457107426,
     "read_only": false,
     "read_only_alternatives": []
 }
