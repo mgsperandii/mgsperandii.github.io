@@ -7,7 +7,7 @@ background: '/Users/Marta/Documents/GitHub/mgsperandii.github.io/mgsperandii.git
 ---
 
 # {:height="24px" width="48px"}
-![Snupet](/Users/Marta/Documents/GitHub/mgsperandii.github.io/mgsperandii.github.io/_posts/Marta_Eris_CampoImp.png)
+![Snupet](/Users/Marta/Documents/GitHub/mgsperandii.github.io/mgsperandii.github.io/_posts/Marta_Eris_CampoImp.png "title")
 
 <img src="Marta_Eris_CampoImp.png" alt="snup" width="200"/>
 
