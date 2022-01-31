@@ -3,7 +3,7 @@ title: "Hello and welcome to my page!"
 output: github_document
 layout: post
 author: "Marta Gaia Sperandii"
-background: '/img/posts/hello/Marta_Eris_CampoImp.jpg'
+background: '/Users/Marta/Documents/GitHub/mgsperandii.github.io/mgsperandii.github.io/img/Marta_Eris_CampoImp.jpg'
 ---
 
 

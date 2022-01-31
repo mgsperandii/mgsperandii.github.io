@@ -3,9 +3,9 @@
     "path": "~/Documents/GitHub/mgsperandii.github.io/mgsperandii.github.io/_posts/2022-01-26-hello.Rmd",
     "project_path": "_posts/2022-01-26-hello.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1667388",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1643471727568.0,
     "source_on_save": false,
     "relative_order": 9,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1643472519,
+    "lastKnownWriteTime": 1643619448,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1643619346705,
+    "last_content_update": 1643619448841,
     "read_only": false,
     "read_only_alternatives": []
 }
