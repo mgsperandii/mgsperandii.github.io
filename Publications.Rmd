@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: "Publications"
 description: Here's a list of my publications
-background: '/img/me-samp1.jpeg'
+background: '/img/me-pantaniello.jpeg'
 permalink: /Publications/
 group: navigation
 ---
