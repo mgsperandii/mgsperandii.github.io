@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Publications"
 description: Here's a list of my publications
 background: '/Users/Marta/Documents/GitHub/mgsperandii.github.io/mgsperandii.github.io/img/Marta_Eris_CampoImp.jpg'
