@@ -1,6 +1,6 @@
 ---
+layout: page
 title: "Publications"
-output: github_document
 description: Here's a list of my publications
 background: '/img/me-samp1.jpeg'
 ---
