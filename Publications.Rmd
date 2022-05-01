@@ -1,0 +1,14 @@
+---
+title: "Publications"
+output: github_document
+description: Here's a list of my publications
+background: '/img/me-samp1.jpeg'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<p align="justify">1. **Sperandii** M.G, Barták V., Carboni M., Acosta A.T.R. 2020. Getting the measure of the biodiversity crisis in Mediterranean coastal habitats. _Journal of Ecology_. DOI: <a href="https://doi.org/10.1111/1365-2745.13547">**10.1111/1365-2745.13547**</a> </p>
+
+2.	**Sperandii** M.G., Barták V., & Acosta A.T.R. 2020. Effectiveness of the Natura 2000 network in conserving Mediterranean coastal dune habitats. _Biological conservation_ 248: 108689. DOI: [**10.1016/j.biocon.2020.108689**](https://doi.org/10.1016/j.biocon.2020.108689)
