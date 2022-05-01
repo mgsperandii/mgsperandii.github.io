@@ -3,6 +3,7 @@ layout: page
 title: "Publications"
 description: Here's a list of my publications
 background: '/img/me-samp1.jpeg'
+permalink: /Publications/
 ---
 
 ```{r setup, include=FALSE}
