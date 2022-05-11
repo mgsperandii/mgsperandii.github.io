@@ -4,6 +4,7 @@ layout: default
 description: Here's a list of my projects
 background: '/Users/Marta/Documents/GitHub/mgsperandii.github.io/mgsperandii.github.io/img/Marta_Eris_CampoImp.jpg'
 permalink: /MyProjects/
+group: navigation
 ---
 
 ```{r setup, include=FALSE}
