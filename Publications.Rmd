@@ -15,11 +15,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <p align="justify">
 
-1. **Sperandii** M.G, Barták V., Carboni M., Acosta A.T.R. 2020. Getting the measure of the biodiversity crisis in Mediterranean coastal habitats. _Journal of Ecology_. DOI: <a href="https://doi.org/10.1111/1365-2745.13547">**10.1111/1365-2745.13547**</a> </p>
+1. **Sperandii** M.G, Barták V., Carboni M., Acosta A.T.R. 2020. Getting the measure of the biodiversity crisis in Mediterranean coastal habitats. _Journal of Ecology_. DOI: <a href="https://doi.org/10.1111/1365-2745.13547">**10.1111/1365-2745.13547**
 
-2.	**Sperandii** M.G., Barták V., & Acosta A.T.R. 2020. Effectiveness of the Natura 2000 network in conserving Mediterranean coastal dune habitats. _Biological conservation_ 248: 108689. DOI: [**10.1016/j.biocon.2020.108689**](https://doi.org/10.1016/j.biocon.2020.108689)
+2.	**Sperandii** M.G., Barták V., & Acosta A.T.R. 2020. Effectiveness of the Natura 2000 network in conserving Mediterranean coastal dune habitats. _Biological conservation_ 248: 108689. DOI: [**10.1016/j.biocon.2020.108689**](https://doi.org/10.1016/j.biocon.2020.108689)</a> </p>
 
-1. Renault D., Hess M.C.M., Braschi J., Cuthbert R.N., **Sperandii** M.G., Bazzichetto M., ... & Massol François. 2022. Advancing biological invasion hypothesis testing using functional diversity indices. _Science of the Total Environment_. DOI: [**10.1016/j.scitotenv.2022.155102**](https://doi.org/10.1016/j.scitotenv.2022.155102)
+3. Renault D., Hess M.C.M., Braschi J., Cuthbert R.N., **Sperandii** M.G., Bazzichetto M., ... & Massol François. 2022. Advancing biological invasion hypothesis testing using functional diversity indices. _Science of the Total Environment_. DOI: [**10.1016/j.scitotenv.2022.155102**](https://doi.org/10.1016/j.scitotenv.2022.155102)
 
 2. Yannelli F., Bazzichetto M., Conradi T., Pattison Z., Andrade B.O., Anibaba Q., ... & **Sperandii** M.G. 2022. Fifteen emerging challenges and opportunities for vegetation science - A horizon scan by early career researchers. _Journal of Vegetation Science_. DOI: [**10.1111/jvs.13119**](https://doi.org/10.1111/jvs.13119)
 
