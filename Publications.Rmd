@@ -1,5 +1,5 @@
 ---
-layout: deafult
+layout: default
 title: My Publications
 description: Here's a list of my publications
 background: '/Users/Marta/Documents/GitHub/mgsperandii.github.io/mgsperandii.github.io/img/Marta_Eris_CampoImp.jpg'
@@ -10,7 +10,7 @@ group: navigation
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
+<href="/styles.css">
 {% include footer.html %}
 
 <p align="justify">1. **Sperandii** M.G, Barták V., Carboni M., Acosta A.T.R. 2020. Getting the measure of the biodiversity crisis in Mediterranean coastal habitats. _Journal of Ecology_. DOI: <a href="https://doi.org/10.1111/1365-2745.13547">**10.1111/1365-2745.13547**</a> </p>
